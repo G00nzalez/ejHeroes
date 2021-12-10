@@ -148,11 +148,7 @@ public class Heroe {
                 "vida: " + vida +"\n" +
                 "fuerza: " + fuerza +"\n" +
                 "defensa: " + defensa +"\n" +
-                "velocidad: " + velocidad +"\n" +
-                "fuerzaTotal: " + fuerzaTotal +"\n" +
-                "defensaTotal: " + defensaTotal +"\n" +
-                "velocidadTotal: " + velocidadTotal +"\n" +
-                "vidaTotal: " + vidaTotal;
+                "velocidad: " + velocidad;
     }
 
 }
